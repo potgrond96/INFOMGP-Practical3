@@ -1,0 +1,10 @@
+^C:\USERS\KIKIH\DOCUMENTS\GITHUB\INFOMGP-PRACTICAL3\LIBIGL\EXTERNAL\TETGEN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 -BC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 --check-stamp-file C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/tetgen/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

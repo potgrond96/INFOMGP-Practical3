@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{0BE50780-DE35-333D-964B-89CA8E565403}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>Practical3_bin</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Practical3_bin.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Practical3_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Practical3_bin.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Practical3_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Practical3_bin.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Practical3_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Practical3_bin.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Practical3_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>tetgen\Debug\tetgen.lib;opengl32.lib;imgui\Debug\imgui.lib;glfw\src\Debug\glfw3.lib;glad\Debug\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/Debug/Practical3_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/Debug/Practical3_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>tetgen\Release\tetgen.lib;opengl32.lib;imgui\Release\imgui.lib;glfw\src\Release\glfw3.lib;glad\Release\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/Release/Practical3_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/Release/Practical3_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>tetgen\MinSizeRel\tetgen.lib;opengl32.lib;imgui\MinSizeRel\imgui.lib;glfw\src\MinSizeRel\glfw3.lib;glad\MinSizeRel\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/MinSizeRel/Practical3_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/MinSizeRel/Practical3_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glad\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\glfw\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\tetgen;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\.;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\include;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>tetgen\RelWithDebInfo\tetgen.lib;opengl32.lib;imgui\RelWithDebInfo\imgui.lib;glfw\src\RelWithDebInfo\glfw3.lib;glad\RelWithDebInfo\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/RelWithDebInfo/Practical3_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/RelWithDebInfo/Practical3_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 -BC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 --check-stamp-file C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCXXCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeRCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeSystem.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\cmake\FindLIBIGL.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\CXXFeatures.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl-config.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 -BC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 --check-stamp-file C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCXXCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeRCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeSystem.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\cmake\FindLIBIGL.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\CXXFeatures.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl-config.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 -BC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 --check-stamp-file C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCXXCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeRCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeSystem.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\cmake\FindLIBIGL.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\CXXFeatures.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl-config.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 -BC:/Users/kikih/Documents/GitHub/INFOMGP-Practical3 --check-stamp-file C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.16\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeCXXCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeRCCompiler.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\3.16.4\CMakeSystem.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\cmake\FindLIBIGL.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\CXXFeatures.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\DownloadProject.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl-config.cmake.in;C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\cmake\libigl.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\alloc.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\auxfunctions.h" />
+    <ClCompile Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\ccd.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\ccd.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\compiler.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\constraints.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\dbg.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\line_cylinders.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\list.h" />
+    <ClCompile Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\main.cpp" />
+    <ClCompile Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\mpr.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\polytope.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\polytope.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\quat.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\scene.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\simplex.h" />
+    <ClCompile Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\support.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\support.h" />
+    <ClCompile Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\vec3.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\vec3.h" />
+    <ClInclude Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\volInt.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\ZERO_CHECK.vcxproj">
+      <Project>{5A27174D-ED2A-33E9-9201-68CACCDB6394}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\glad\glad.vcxproj">
+      <Project>{A8F5DF4E-B235-37F4-889A-B27811E9E467}</Project>
+      <Name>glad</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\glfw\src\glfw.vcxproj">
+      <Project>{3DD03EBE-BB6C-3532-8907-2B2851D3CE84}</Project>
+      <Name>glfw</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\imgui\imgui.vcxproj">
+      <Project>{F32931A1-374B-3D72-8FED-F90EF0B7E380}</Project>
+      <Name>imgui</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\tetgen\tetgen.vcxproj">
+      <Project>{289A463B-AC21-3B4F-BC6C-B50593A5A5A9}</Project>
+      <Name>tetgen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

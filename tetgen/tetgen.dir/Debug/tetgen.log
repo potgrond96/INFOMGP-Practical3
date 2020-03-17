@@ -1,0 +1,425 @@
+﻿  Building Custom Rule C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/libigl/external/tetgen/CMakeLists.txt
+  tetgen.cxx
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(202,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(203,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(206,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(279,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(280,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(282,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(361,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(362,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(364,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(457,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(458,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(460,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(564,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(565,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(567,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(578,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(579,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(625,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(626,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(627,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(747,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(748,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(749,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(821,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(822,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(823,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(824,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(829,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(832,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1231,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1238,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1241,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1259,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1393,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1400,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1403,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1621,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1628,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1631,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1799,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1806,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(1809,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2159,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2166,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2168,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2176,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2184,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2186,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2190,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2253,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2462,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2464,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2488,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2490,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2514,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2516,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2561,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2563,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2590,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2592,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2618,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2620,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2653,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2655,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2751,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(2753,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3246,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3046,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3047,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3052,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3053,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3057,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3437,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3455,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3576,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3597,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3599,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3600,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3605,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3608,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3609,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3611,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(3612,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(11551,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(22597,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28161,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28161,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28161,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28161,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28164,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28164,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28164,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28164,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28172,19): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28172,19): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28172,19): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28172,19): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28175,19): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28175,19): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28175,19): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28175,19): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28184,19): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28184,19): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28184,19): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28184,19): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28187,19): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28187,19): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28187,19): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28187,19): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28201,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28201,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28201,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28201,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28204,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28204,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28204,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28204,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28210,20): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28210,20): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28210,20): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28210,20): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28213,20): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28213,20): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28213,20): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28213,20): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28227,16): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28227,16): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28227,16): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28227,16): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28230,16): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28230,16): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28230,16): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28230,16): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28236,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28236,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28236,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28236,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28239,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28239,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28239,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28239,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28249,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28249,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28249,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28249,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28252,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28252,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28252,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28252,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28264,20): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28264,20): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28264,20): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28264,20): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28267,20): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28267,20): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28267,20): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28267,20): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 6 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28349,20): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28362,24): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28362,24): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28362,24): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28362,24): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28367,26): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28367,26): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28367,26): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28367,26): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 6 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28386,22): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28403,16): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 5 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28403,16): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28403,16): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28403,16): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28412,20): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 5 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28412,20): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28412,20): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28412,20): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28458,24): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 5 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28458,24): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28458,24): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28458,24): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28478,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 4 has type 'uintptr_t'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28478,18): message : consider using '%llx' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28478,18): message : consider using '%Ix' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(28478,18): message : consider using '%I64x' in the format string
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29232,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29238,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29744,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29745,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29764,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29938,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29939,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29951,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29985,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29986,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(29998,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30075,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30076,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30092,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30230,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30231,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30246,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30404,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30405,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30415,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30451,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30452,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30464,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30555,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30556,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30568,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30742,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30743,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30770,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30935,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30936,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30946,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30962,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30963,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(30973,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31020,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31021,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31033,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31162,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31163,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31177,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31272,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31273,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31322,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31374,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31375,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31387,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31476,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31477,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31489,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31590,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31591,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31603,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31727,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31729,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31731,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31733,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31734,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31735,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31740,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31830,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31832,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31834,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31836,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31841,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31993,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31995,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31997,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(31999,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\libigl\external\tetgen\tetgen.cxx(32004,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  predicates.cxx
+  Generating Code...
+  tetgen.vcxproj -> C:\Users\kikih\Documents\GitHub\INFOMGP-Practical3\tetgen\Debug\tetgen.lib

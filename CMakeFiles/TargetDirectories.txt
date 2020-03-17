@@ -1,0 +1,16 @@
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/Practical3_bin.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/INSTALL.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/ALL_BUILD.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/CMakeFiles/ZERO_CHECK.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/glad/CMakeFiles/glad.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/glad/CMakeFiles/INSTALL.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/glad/CMakeFiles/ALL_BUILD.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/glfw/CMakeFiles/INSTALL.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/glfw/src/CMakeFiles/glfw.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/imgui/CMakeFiles/imgui.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/imgui/CMakeFiles/INSTALL.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/tetgen/CMakeFiles/INSTALL.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/tetgen/CMakeFiles/tetgen.dir
+C:/Users/kikih/Documents/GitHub/INFOMGP-Practical3/tetgen/CMakeFiles/ALL_BUILD.dir
